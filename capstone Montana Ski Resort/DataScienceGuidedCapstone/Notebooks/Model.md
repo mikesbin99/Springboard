@@ -1,8 +1,6 @@
 **Q: 1** Write a summary of the results of modeling these scenarios. Start by starting the current position; how much does Big Mountain currently charge? What does your modelling suggest for a ticket price that could be supported in the marketplace by Big Mountain's facilities? How would you approach suggesting such a change to the business leadership? Discuss the additional operating cost of the new chair lift per ticket (on the basis of each visitor on average buying 5 day tickets) in the context of raising prices to cover this. For future improvements, state which, if any, of the modeled scenarios you'd recommend for further consideration. Suggest how the business might test, and progress, with any run closures.
 
-Big Mountain currently charges XXX for an Adult Weekend/ Adult Weekday process
-
-Based off model evaluation, we have determined that Big Mountain Resort modelled price is $95.87, actual price is $81.00.
+Based off model evaluation, we have determined that Big Mountain Resort desired modeled price is $95.87, actual price is $81.00.
 Even with the expected mean absolute error of $10.39, this suggests there is room for an increase.
 
 This comes with risk.  First wa are assuming all other resorts use best data science practice in determining their own prices.  This is our best strategy given our dataset.  Second, this assumes raising prices will not alter the ridership.  Third, we are missing more information from other ski resorts.  Do they have the same operating costs and thus a complementatry data science approach at their strategy?
