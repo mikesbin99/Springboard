@@ -1,4 +1,8 @@
 .ipynb_checkpoints
-*/.ipynb_checkpoints/*
-*/capstone main/*
-*/capstone/*
+*\.ipynb_checkpoints\*
+*\capstone main\*
+*\capstones\*
+*\datacamp\*
+*datacamp\*
+
+
